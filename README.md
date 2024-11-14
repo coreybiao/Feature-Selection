@@ -10,3 +10,7 @@
 ## Feature Selection with Active Learning
 
 - 19-TPAMI：Joint Active Learning with Feature Selection via CUR Matrix Decomposition
+
+## Others
+
+- 23-TPAMI：Learning Feature-Sparse Principal Subspace
